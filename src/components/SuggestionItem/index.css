@@ -1,0 +1,23 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin-top: 16px;
+}
+.suggestion-paragraph {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0px;
+}
+.arrow-image {
+  height: 20px;
+  width: 30px;
+  margin: 10px;
+}
+.arrow-button {
+  background-color: white;
+  border: none;
+}
